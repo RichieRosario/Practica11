@@ -1,4 +1,5 @@
 Manifest-Version: 1.0
+Class-Path: edu.pucmm.altadisponibilidadspring
 Main-Class: edu.pucmm.altadisponibilidadspring.AltaDisponibilidadSprin
  gApplication
 
